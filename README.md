@@ -14,3 +14,5 @@ Adivina cual es el numero
   <li>Siguente, comprobar si el número es correcto.</li>
   <li>Si es correcto:</li>
 </ul>
+
+https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/A_first_splash
